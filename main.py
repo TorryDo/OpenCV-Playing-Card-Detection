@@ -15,7 +15,7 @@ debug = True
 # url = 'https://192.168.1.173:8080'
 
 # change to 1 if using USB webcam
-cap = cv2.VideoCapture("test/vid4.mp4")
+cap = cv2.VideoCapture("test/2cards.mp4")
 # cap = cv2.VideoCapture(url + "/video")
 frame_rate = 30
 
